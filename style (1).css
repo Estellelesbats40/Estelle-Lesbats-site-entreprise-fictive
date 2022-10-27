@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lora:wght@600;700&family=Oswald&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Rubik:wght@300&display=swap");
+@import url("component/container.css");
+@import url("component/avatar.css");
+@import url("component/btn-blue.css");
+@import url("component/banner.css");
+@import url("component/card-menu.css");
+
+body{
+	font-family: : 'Abril Fatface', cursive;
+	margin: 0;
+}
+
+h1, h2, h3 {
+	font-family: 'Rubik', sans-serif
+}
+
+img {
+	margin: none;
+}
